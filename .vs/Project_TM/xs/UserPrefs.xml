@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{CACA940C-B278-9CC0-EF2A-51035D347A34}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/EnemyAi.cs">
+    <Files>
+      <File FileName="Assets/Scripts/EnemyCollider.cs" Line="15" Column="43" />
+      <File FileName="Assets/Scripts/EnemyAi.cs" Line="42" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/zhangsihao/Project_TM/Assets/Scripts/MovingWall.cs" relfile="Assets/Scripts/MovingWall.cs" line="10" column="2" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

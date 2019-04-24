@@ -1,0 +1,59 @@
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd niuzaiku-basecolor.jpg
+bump niuzaiku-normal.jpg -bm 0.3
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd T-shirt-basecolor.jpg
+bump T-shirt-normal.jpg -bm 0.15
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd xiezi-basecolor.jpg
+bump xiezi-normal.jpg -bm 0.3
+Ni 1.00
+newmtl lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd shou-basecolor.jpg
+bump shou-normal.jpg -bm 0.08
+Ni 1.00
+newmtl lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hair-basecolor.jpg
+bump hair-normal.jpg -bm 0.2
+Ni 1.00
+newmtl nantouxian:Material__47
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd face-basecolor.jpg
+bump face-normal.jpg -bm 0.08
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl nantouxian:Material__55
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd eye-basecolor.jpg
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
